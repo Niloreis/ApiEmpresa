@@ -1,0 +1,11 @@
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\bin\Debug\net8.0\ApiEmpresas.Data.deps.json
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\bin\Debug\net8.0\ApiEmpresas.Data.dll
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\bin\Debug\net8.0\ApiEmpresas.Data.pdb
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\obj\Debug\net8.0\ApiEmpresas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\obj\Debug\net8.0\ApiEmpresas.Data.AssemblyInfoInputs.cache
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\obj\Debug\net8.0\ApiEmpresas.Data.AssemblyInfo.cs
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\obj\Debug\net8.0\ApiEmpresas.Data.csproj.CoreCompileInputs.cache
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\obj\Debug\net8.0\ApiEmpresas.Data.dll
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\obj\Debug\net8.0\refint\ApiEmpresas.Data.dll
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\obj\Debug\net8.0\ApiEmpresas.Data.pdb
+C:\Users\nilog\Desktop\meus_projetos\Empresas_Financeiro\ApiEmpresas\ApiEmpresas.Data\obj\Debug\net8.0\ref\ApiEmpresas.Data.dll
